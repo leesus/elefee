@@ -1,0 +1,19 @@
+{
+  "name": "elefee",
+  "version": "0.1.0",
+  "description": "Elefee Ltd. Professional web development services.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesus/elefee.git"
+  },
+  "author": "leesus <lee.ellam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leesus/elefee/issues"
+  },
+  "homepage": "https://github.com/leesus/elefee#readme"
+}
